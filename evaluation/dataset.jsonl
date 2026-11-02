@@ -1,0 +1,5 @@
+{"id":"llmops_definition","prompt":"What does LLMOps stand for? Answer in one sentence.","must_include_all":["large language model operations"]}
+{"id":"inference_definition","prompt":"What is model inference? Answer in one sentence.","must_include_any":["prediction","predictions","predict","output","outputs"]}
+{"id":"training_vs_inference","prompt":"What is the difference between training and inference? Answer briefly.","must_include_all":["training","inference"],"must_include_any":["learn","learning","parameters"]}
+{"id":"python_definition","prompt":"What is Python? Answer in one sentence.","must_include_any":["programming language"]}
+{"id":"bullet_format","prompt":"Explain LLMOps in exactly three numbered list items. Each item must occupy one line and start with a number followed by a period. Do not write an introduction or conclusion.","min_numbered_items":3,"max_numbered_items":3}
