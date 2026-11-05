@@ -365,7 +365,3 @@ packages, runs the test suite and builds the Docker image on every push/PR.
 - **No LICENSE** file yet.
 
 ---
-
-## License
-
-Not specified. Add one before distributing.
