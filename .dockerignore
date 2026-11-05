@@ -1,0 +1,10 @@
+.venv
+.venv-vllm
+__pycache__
+*.py[cod]
+.pytest_cache
+.git
+.env
+results/
+evaluation/
+tests/

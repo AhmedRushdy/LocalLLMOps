@@ -1,0 +1,16 @@
+engine,model,prompt,run,wall_seconds,prompt_tokens,generated_tokens,tokens_per_second_wall,response
+Ollama,qwen2.5:0.5b,What is model inference? Answer in two sentences.,1,0.1538,39,44,286.14,Model inference refers to the process of using a model to make predictions or decisions based on input data. It involves training a model on a dataset and then using the model to generate predictions or outputs based on new data.
+Ollama,qwen2.5:0.5b,What is model inference? Answer in two sentences.,2,0.1461,39,44,301.07,Model inference refers to the process of using a model to make predictions or decisions based on input data. It involves training a model on a dataset and then using the model to generate predictions or outputs based on new data.
+Ollama,qwen2.5:0.5b,What is model inference? Answer in two sentences.,3,0.1423,39,44,309.22,Model inference refers to the process of using a model to make predictions or decisions based on input data. It involves training a model on a dataset and then using the model to generate predictions or outputs based on new data.
+Ollama,qwen2.5:0.5b,Explain LLMOps in three bullet points.,1,0.2124,39,60,282.43,"LLMOps stands for Logical Language Model Optimization. It is a technique used in natural language processing (NLP) to improve the performance of a language model by making it more efficient and effective. Here are three bullet points that describe LLMOps:
+
+1. **Efficient Training**: LLMOps"
+Ollama,qwen2.5:0.5b,Explain LLMOps in three bullet points.,2,0.1935,39,60,310.15,"LLMOps stands for Logical Language Model Optimization. It is a technique used in natural language processing (NLP) to improve the performance of a language model by making it more efficient and effective. Here are three bullet points that describe LLMOps:
+
+1. **Efficient Training**: LLMOps"
+Ollama,qwen2.5:0.5b,Explain LLMOps in three bullet points.,3,0.2031,39,60,295.47,"LLMOps stands for Logical Language Model Optimization. It is a technique used in natural language processing (NLP) to improve the performance of a language model by making it more efficient and effective. Here are three bullet points that describe LLMOps:
+
+1. **Efficient Training**: LLMOps"
+Ollama,qwen2.5:0.5b,What is the difference between training and inference? Answer briefly.,1,0.1788,41,52,290.84,"Training involves the process of feeding a dataset into a model to learn from it, and the model is updated based on the learned data. Inference, on the other hand, involves using the trained model to make predictions or generate output based on new data."
+Ollama,qwen2.5:0.5b,What is the difference between training and inference? Answer briefly.,2,0.1705,41,52,304.97,"Training involves the process of feeding a dataset into a model to learn from it, and the model is updated based on the learned data. Inference, on the other hand, involves using the trained model to make predictions or generate output based on new data."
+Ollama,qwen2.5:0.5b,What is the difference between training and inference? Answer briefly.,3,0.1689,41,52,307.96,"Training involves the process of feeding a dataset into a model to learn from it, and the model is updated based on the learned data. Inference, on the other hand, involves using the trained model to make predictions or generate output based on new data."

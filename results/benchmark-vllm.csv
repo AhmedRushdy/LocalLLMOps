@@ -1,0 +1,22 @@
+engine,model,prompt,run,wall_seconds,prompt_tokens,generated_tokens,tokens_per_second_wall,response
+vLLM,Qwen/Qwen2.5-0.5B-Instruct,What is model inference? Answer in two sentences.,1,0.7599,39,50,65.8,"Model inference refers to the process of using machine learning algorithms to predict outcomes based on input data without being explicitly programmed with those predictions. This involves training models on large datasets and then applying them to new, unseen data to make accurate predictions or classifications."
+vLLM,Qwen/Qwen2.5-0.5B-Instruct,What is model inference? Answer in two sentences.,2,0.7151,39,50,69.92,"Model inference refers to the process of using machine learning algorithms to predict outcomes based on input data without being explicitly programmed with those predictions. This involves training models on large datasets and then applying them to new, unseen data to make accurate predictions or classifications."
+vLLM,Qwen/Qwen2.5-0.5B-Instruct,What is model inference? Answer in two sentences.,3,0.7129,39,50,70.14,"Model inference refers to the process of using machine learning algorithms to predict outcomes based on input data without being explicitly programmed with those predictions. This involves training models on large datasets and then applying them to new, unseen data to make accurate predictions or classifications."
+vLLM,Qwen/Qwen2.5-0.5B-Instruct,Explain LLMOps in three bullet points.,1,0.9025,39,60,66.48,"Sure! Here's an explanation of the LLMOps (Learning Language Models with Optimization) framework:
+
+1. **LLM**: Learning to Learn Model - This is the core concept of LLMOps. It represents a model that can learn from data and improve its performance over time.
+
+2. **"
+vLLM,Qwen/Qwen2.5-0.5B-Instruct,Explain LLMOps in three bullet points.,2,0.8754,39,60,68.54,"Sure! Here's an explanation of the LLMOps (Learning Language Models with Optimization) framework:
+
+1. **LLM**: Learning to Learn Model - This is the core concept of LLMOps. It represents a model that can learn from data and improve its performance over time.
+
+2. **"
+vLLM,Qwen/Qwen2.5-0.5B-Instruct,Explain LLMOps in three bullet points.,3,0.8693,39,60,69.02,"Sure! Here's an explanation of the LLMOps (Learning Language Models with Optimization) framework:
+
+1. **LLM**: Learning to Learn Model - This is the core concept of LLMOps. It represents a model that can learn from data and improve its performance over time.
+
+2. **"
+vLLM,Qwen/Qwen2.5-0.5B-Instruct,What is the difference between training and inference? Answer briefly.,1,0.8904,41,60,67.39,"Training involves feeding data into a model to learn from it, adjusting parameters until the model achieves a desired level of accuracy or performance. Inference, on the other hand, refers to using the trained model to make predictions or generate output based on new input data. This process typically requires the model to be"
+vLLM,Qwen/Qwen2.5-0.5B-Instruct,What is the difference between training and inference? Answer briefly.,2,0.8478,41,60,70.77,"Training involves feeding data into a model to learn from it, adjusting parameters until the model achieves a desired level of accuracy or performance. Inference, on the other hand, refers to using the trained model to make predictions or generate output based on new input data. This process typically requires the model to be"
+vLLM,Qwen/Qwen2.5-0.5B-Instruct,What is the difference between training and inference? Answer briefly.,3,0.8881,41,60,67.56,"Training involves feeding data into a model to learn from it, adjusting parameters until the model achieves a desired level of accuracy or performance. Inference, on the other hand, refers to using the trained model to make predictions or generate output based on new input data. This process typically requires the model to be"
